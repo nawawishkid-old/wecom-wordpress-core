@@ -1,0 +1,12 @@
+{
+    "name": "nawawishkid/wecom-wordpress-core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nawawish Samerpark",
+            "email": "hydrokidz@gmail.com"
+        }
+    ],
+    "require": {}
+}
